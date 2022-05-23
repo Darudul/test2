@@ -9,7 +9,7 @@ const Header = () => {
       <NavContainer></NavContainer>
       <Navbar></Navbar>
 
-      <h2 className="text-3xl">this is awesome header</h2>
+      <h2 className="text-3xl">thisyghyghv gffvhfvfvftgesome header</h2>
     </div>
   );
 };
